@@ -1,7 +1,7 @@
 # Hi, I'm Damar Galih! 👋
 
 ### 🚀 Fullstack Developer | 🐧 Linux Enthusiast
-![Damar Galih](img/github-header-banner.png)
+![Damar Galih](github-header-banner.png)
 I love building scalable web applications and exploring the depths of Unix-based systems. Constantly learning, tinkering, and pushing code.
 
 - 🔭 Currently working on: **Fullstack Projects**
