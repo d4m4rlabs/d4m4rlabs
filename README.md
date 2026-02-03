@@ -1,4 +1,4 @@
-# Hi, I'm [Damar Galih! 👋
+# Hi, I'm Damar Galih! 👋
 
 ### 🚀 Fullstack Developer | 🐧 Linux Enthusiast
 ![Damar Galih](img/github-header-banner.png)
