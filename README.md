@@ -13,4 +13,4 @@ I love building scalable web applications and exploring the depths of Unix-based
 ![hacker](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3djVvczBzN3czbGU5eWZlZzI0ODVyeGU5aDY3dTFtN3Y3N2QyaDkxNCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/ZQW9Wx6C4OX0mbzPvj/giphy.gif)
 
 #####Statistik
-[![Damar Galih's GitHub stats](https://github-readme-stats.vercel.app/api?username=d4m4rlabs)]
+![Damar Galih's GitHub stats](https://github-readme-stats.vercel.app/api?username=d4m4rlabs)
