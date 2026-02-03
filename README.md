@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm [Damar Galih! 👋
 
-<!--
-**d4m4rlabs/d4m4rlabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Fullstack Developer | 🐧 Linux Enthusiast
+![Damar Galih](img/github-header-banner.png)
+I love building scalable web applications and exploring the depths of Unix-based systems. Constantly learning, tinkering, and pushing code.
 
-Here are some ideas to get you started:
+- 🔭 Currently working on: **Fullstack Projects**
+- ⚡ Tech Stack: **Node.js, React, & PostgreSQL**
+- 🐧 OS of Choice: **Arch Linux / Debian** (I live in the terminal!)
+- 💬 Ask me about: **Web Dev, Shell Scripting, or Docker**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![hacker](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3djVvczBzN3czbGU5eWZlZzI0ODVyeGU5aDY3dTFtN3Y3N2QyaDkxNCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/ZQW9Wx6C4OX0mbzPvj/giphy.gif)
+
+### Fullstack Developer | Linux Enthusiast
