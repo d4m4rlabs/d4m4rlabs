@@ -1,7 +1,9 @@
 # 👋 Hei, aku Damar Galih!
 
+<img align="right" src="https://media.giphy.com/media/ZQW9Wx6C4OX0mbzPvj/giphy.gif" width="180" />
+
 Frontend Developer yang suka bikin UI rapi & interaktif.
-Based in Indonesia 🇮🇩
+🐧 Linux Enthusiast · Based in Indonesia 🇮🇩
 
 ---
 
@@ -14,6 +16,7 @@ Based in Indonesia 🇮🇩
 ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vuedotjs&logoColor=4FC08D)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 ---
@@ -22,20 +25,13 @@ Based in Indonesia 🇮🇩
 
 - 🔭 Lagi ngulik proyek frontend yang seru
 - 🌱 Belajar terus soal web performance & accessibility
+- 🐧 Linux enthusiast sejati
 - 💬 Gaskeun ngobrol soal UI/UX atau tech apapun!
 - ⚡ Fun fact: kopi dulu baru ngoding ☕
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=damar-galih&show_icons=true&theme=tokyonight) Linux Enthusiast<br><br>![hacker](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3djVvczBzN3czbGU5eWZlZzI0ODVyeGU5aDY3dTFtN3Y3N2QyaDkxNCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/ZQW9Wx6C4OX0mbzPvj/giphy.gif)<br><br>
-
-
-
-### 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Damar) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/guuelieh) 
-
-### 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=damar-galih&show_icons=true&theme=tokyonight)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=d4m4rlabs&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=d4m4rlabs&theme=vue-dark&hide_border=false)<br/>
