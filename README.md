@@ -1,5 +1,33 @@
-## 💫 About Me:
-## Hi, I'm Damar Galih! 👋<br><br> 🚀 Fullstack Developer | 🐧 Linux Enthusiast<br>![Damar Galih](img/github-header-banner.png)<br>I love building scalable web applications and exploring the depths of Unix-based systems. Constantly learning, tinkering, and pushing code.<br><br>- 🔭 Currently working on: **Fullstack Projects**<br>- ⚡ Tech Stack: **Node.js, React, & PostgreSQL**<br>- 🐧 OS of Choice: **Linux mint** (I live in the terminal!)<br>- 💬 Ask me about: **Web Dev, Shell Scripting, or Docker**<br>Fullstack Developer | Linux Enthusiast<br><br>![hacker](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3djVvczBzN3czbGU5eWZlZzI0ODVyeGU5aDY3dTFtN3Y3N2QyaDkxNCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/ZQW9Wx6C4OX0mbzPvj/giphy.gif)<br><br>
+# 👋 Hei, aku Damar Galih!
+
+Frontend Developer yang suka bikin UI rapi & interaktif.
+Based in Indonesia 🇮🇩
+
+---
+
+## 🛠 Tech Stack
+
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vuedotjs&logoColor=4FC08D)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+
+---
+
+## 🚀 Tentang Aku
+
+- 🔭 Lagi ngulik proyek frontend yang seru
+- 🌱 Belajar terus soal web performance & accessibility
+- 💬 Gaskeun ngobrol soal UI/UX atau tech apapun!
+- ⚡ Fun fact: kopi dulu baru ngoding ☕
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=damar-galih&show_icons=true&theme=tokyonight) Linux Enthusiast<br><br>![hacker](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3djVvczBzN3czbGU5eWZlZzI0ODVyeGU5aDY3dTFtN3Y3N2QyaDkxNCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/ZQW9Wx6C4OX0mbzPvj/giphy.gif)<br><br>
 
 
 
